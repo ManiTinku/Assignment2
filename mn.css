@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-image: url('https://i.pinimg.com/474x/09/37/14/0937144250a337821932797d6f8b4db7.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.container {
+    max-width: 700px;
+    margin: 0 auto;
+    background-image: url('https://www.heinkedesign.com/wp-content/uploads/2017/02/TAMUCCSculpture-935-web.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 240px;
+    border-radius: 50px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+h1 {
+    color: rgb(173, 38, 11);
+}
+button {
+    background-color: rgb(172, 127, 157);
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    margin: 10px;
+}
+#jsonDisplay {
+    margin-top: 20px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    font-size: 20px;
+    color: rgb(21, 9, 232);
+    border-radius: 5px;
+    text-align: left;
+}
